@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1593608614 source:c:\users\ale\desktop\clasagustin.splab1.1a\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593614526 c:\users\ale\desktop\clasagustin.splab1.1a\linkedlist.h
+
+1593614526 source:c:\users\ale\desktop\clasagustin.splab1.1a\controllerpaises.c
+	<stdio.h>
+	<stdlib.h>
+	"parserPaises.h"
+	"controllerPaises.h"
+	"Pais.h"
+
+1593614526 c:\users\ale\desktop\clasagustin.splab1.1a\controllerpaises.h
+	"LinkedList.h"
+
+1593614526 c:\users\ale\desktop\clasagustin.splab1.1a\parserpaises.h
+	"LinkedList.h"
+
+1593614526 source:c:\users\ale\desktop\clasagustin.splab1.1a\pais.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"Pais.h"
+
+1593614526 c:\users\ale\desktop\clasagustin.splab1.1a\pais.h
+	"LinkedList.h"
+
+1593614615 source:c:\users\ale\desktop\clasagustin.splab1.1a\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"controllerPaises.h"
+	"UTN.h"
+	"time.h"
+
+1589313115 c:\users\ale\desktop\clasagustin.splab1.1a\utn.h
+
+1593614526 source:c:\users\ale\desktop\clasagustin.splab1.1a\parserpaises.c
+	<stdio.h>
+	<stdlib.h>
+	"parserPaises.h"
+	"Pais.h"
+	"UTN.h"
+
+1593608614 source:c:\users\ale\desktop\clasagustin.splab1.1a\utn.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"utn.h"
+	<ctype.h>
+	<conio.h>
+

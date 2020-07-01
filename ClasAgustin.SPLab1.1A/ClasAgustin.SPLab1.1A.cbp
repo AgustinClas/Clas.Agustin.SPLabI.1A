@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="ClasAgustin.SPLab1.1A" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/ClasAgustin.SPLab1.1A" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/ClasAgustin.SPLab1.1A" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="LinkedList.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="LinkedList.h" />
+		<Unit filename="Pais.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Pais.h" />
+		<Unit filename="UTN.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="UTN.h" />
+		<Unit filename="controllerPaises.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="controllerPaises.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="parserPaises.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="parserPaises.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
